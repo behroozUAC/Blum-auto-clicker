@@ -24,8 +24,8 @@ Follow these steps to get started with Blum Clicker:
    Execute the bot script: `bot.py` to start Blum Clicker.
 
 6. **Control the Bot**  
-   - Press **`Enter`** to activate the bot.
-   - Press **`S`** to deactivate the bot.
+   - Press **`Space`** to activate the bot.
+   - Press **`V`** to deactivate the bot.
 
 7. **Enjoy! 🎉**  
    Let Blum Clicker do the hard work for you.
