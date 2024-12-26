@@ -127,7 +127,7 @@ class Bot:
     @staticmethod
     def wait_for_window():
         print(colored("[ℹ️] Bot is running. Please enable Blum to continue...", "cyan"))
-        print(colored("[⚙️] Press 'space' to enable or 's' to disable!", "yellow"))
+        print(colored("[⚙️] Press 'space' to enable or 'v' to disable!", "yellow"))
         print(colored("[💡] Note: Please activate the Play button and then enable the bot. The bot will automatically press Play in future rounds.", "cyan"))
 
     def run(self):
