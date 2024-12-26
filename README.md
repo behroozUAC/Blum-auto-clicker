@@ -2,6 +2,13 @@
 
 Automate your Blum air drop game interactions effortlessly with **Blum Clicker**. A bot that uses object detection to simplify your tasks while adding a festive Christmas touch! 🎅
 
+<div align="center">
+  <video src=https://github.com/user-attachments/assets/3695c08a-7c0e-454b-a354-f4589d215e9a
+ width="400" />
+</div>
+
+
+
 ---
 
 ## 🔧 How to Set Up
