@@ -18,7 +18,7 @@ Follow these steps to get started with Blum Clicker:
    Run `setup.bat` to automatically install all required Python libraries.
 
 4. **Open Required Applications**  
-   Launch Telegram Desktop and Blum Clicker.
+   Launch Blum AirDrop and Blum Clicker.
 
 5. **Run the Bot**  
    Execute the bot script: `bot.py` to start Blum Clicker.
