@@ -1,0 +1,10 @@
+opencv-python
+numpy
+mss
+keyboard
+mouse
+ultralytics
+pygetwindow
+pynput
+termcolor
+torch
