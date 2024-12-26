@@ -15,7 +15,7 @@ Follow these steps to get started with Blum Clicker:
    Unzip the downloaded folder to any directory on your system.
 
 3. **Install Dependencies**  
-   Run `install.bat` to automatically install all required Python libraries.
+   Run `setup.bat` to automatically install all required Python libraries.
 
 4. **Open Required Applications**  
    Launch Telegram Desktop and Blum Clicker.
@@ -50,13 +50,8 @@ Blum Clicker depends on the following libraries:
 All dependencies are automatically installed by running `install.bat`.
 
 ---
+## 🌟 Support the Project
 
-## 🚀 Quick Start Guide
-
-1. **Clone or Download the Repository**  
-   Clone the project using Git or download it as a ZIP file.
-
-2. **Install Required Libraries**  
-   Run:
-   ```bash
-   pip install -r requirements.txt
+If you love Blum Clicker, help us grow!
+Please star this repository on GitHub to show your support. ⭐
+Your feedback and appreciation are what keep us going!
