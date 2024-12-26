@@ -1,6 +1,6 @@
 # 🎄 Welcome to Blum Clicker! 🎄
 
-Automate your Telegram Desktop interactions effortlessly with **Blum Clicker**. A bot that uses object detection to simplify your tasks while adding a festive Christmas touch! 🎅
+Automate your Blum air drop game interactions effortlessly with **Blum Clicker**. A bot that uses object detection to simplify your tasks while adding a festive Christmas touch! 🎅
 
 ---
 
@@ -8,7 +8,7 @@ Automate your Telegram Desktop interactions effortlessly with **Blum Clicker**. 
 
 Follow these steps to get started with Blum Clicker:
 
-1. **Install Python 3.11**  
+1. **Install Python 3.11 or latest**  
    Download it from [python.org](https://www.python.org/).
 
 2. **Extract the Files**  
@@ -21,7 +21,7 @@ Follow these steps to get started with Blum Clicker:
    Launch Telegram Desktop and Blum Clicker.
 
 5. **Run the Bot**  
-   Execute the bot script: `python bot.py` to start Blum Clicker.
+   Execute the bot script: `bot.py` to start Blum Clicker.
 
 6. **Control the Bot**  
    - Press **`Enter`** to activate the bot.
@@ -36,18 +36,18 @@ Follow these steps to get started with Blum Clicker:
 
 Blum Clicker depends on the following libraries:
 
-- `opencv-python` – for image processing.
-- `numpy` – for numerical computations.
-- `mss` – for screen capturing.
-- `ultralytics` – for YOLO model support.
-- `pygetwindow` – for managing application windows.
-- `time` – Python's built-in module for time handling.
-- `os` – Python's built-in module for operating system interactions.
-- `mouse` – for automating mouse movements and clicks.
-- `keyboard` – for handling keyboard inputs.
-- `random` – Python's built-in module for generating randomness.
+- `opencv-python` 
+- `numpy` 
+- `mss` 
+- `ultralytics` 
+- `pygetwindow` 
+- `mouse` 
+- `keyboard` 
+- `random`  
+- `termcolor`  
+- `torch`  
 
-All dependencies are automatically installed by running `install.bat`.
+All dependencies are automatically installed by running `setup.bat`.
 
 ---
 ## 🌟 Support the Project
@@ -55,3 +55,18 @@ All dependencies are automatically installed by running `install.bat`.
 If you love Blum Clicker, help us grow!
 Please star this repository on GitHub to show your support. ⭐
 Your feedback and appreciation are what keep us going!
+
+## 🤝 Contribute to Blum Clicker
+
+We welcome contributions from the community. Here’s how you can help:
+
+    Fork the repository.
+    Create a new branch for your feature or bug fix.
+    Submit a pull request with your changes.
+
+## Together, we can make Blum Clicker even better! 💪
+
+## 📄 License
+
+This project is licensed under the MIT License, so feel free to modify and use it as you see fit. 🎉
+
